@@ -49,9 +49,3 @@ end
 # LOOP ENDS HERE
 
 puts "you don't have enough money to play."
-# MAKE IT LOOP
-# ADD BALANCE TO THE GAME
-# WE ARRIVE WITH 100€
-# WIN: +50
-# LOSS: -10
-# CAN'T PLAY IF WE HAVE NO MONEY
